@@ -5,7 +5,7 @@ This is the code for FCC the Quality Assurance with Chai lessons.
 
 ## There are 2 tests: Unit tests & functional tests
 Unit tests about assertions, deep equality, truthiness, typeOf, propertyof and so on...
-Functional tests on API endpoints using chai-http, PUT method, runing tests on headless browser.
+<br>Functional tests on API endpoints using chai-http, PUT method, runing tests on headless browser.
 
 ## Chai
 Chai is an excellent JavaScript library with a bunch of methods that can be used to ensure our code behaves as expected. 
