@@ -4,7 +4,7 @@ This is the code for FCC the Quality Assurance with Chai lessons.
 <br>Instructions for completing these lessons start at https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-and-testing-with-chai/
 
 ## There are 2 tests: Unit tests & functional tests
-Unit tests about assertions, deep equality, truthiness, typeOf, propertyof and so on...
+Unit tests about assertions, deep equality, truthiness, greater than, less than, typeOf, propertyof and so on...
 <br>Functional tests on API endpoints using chai-http, PUT method, runing tests on headless browser.
 
 ## Chai
